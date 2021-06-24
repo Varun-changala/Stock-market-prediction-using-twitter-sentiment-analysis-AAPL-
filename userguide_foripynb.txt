@@ -1,0 +1,5 @@
+1. Install Anaconda 3 in your device.
+2. Install Jupyter notebook.
+3. Open XG Boost model.ipynb, Random Forest Regressor model.ipynb, Random Forest Classifier model.ipynb, LSTM model.ipynb and Gradient Booster model.ipynb.
+4. Chnage the file path to where the data is downloaded.
+5. Run the code.
